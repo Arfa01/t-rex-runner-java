@@ -27,7 +27,10 @@ t-rex-runner-java/
 ├── src/
 │ ├── components/
 │ └── utility/
+│ └── Gamepanel.java
+│ └── UserInterface.java
 ├── images/
+├── assets/
 └── README.md
 
 
